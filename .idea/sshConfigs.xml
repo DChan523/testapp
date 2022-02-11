@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="php.scweb.ca" id="96a38141-2daf-4641-82b5-a027cdeb6035" port="22" nameFormat="DESCRIPTIVE" username="dchan" />
+    </configs>
+  </component>
+</project>
